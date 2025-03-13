@@ -53,6 +53,16 @@ A passionate coder **grinding through the CSE core quest 🚀**, diving deep int
 </p>
 
 ---
+<!-- Animated Snake Section -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Swappy-cmd/Swappy-cmd/blob/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Swappy-cmd/Swappy-cmd/blob/output/github-snake.svg"/> 
+    <img alt="github-snake" src="https://github.com/Swappy-cmd/Swappy-cmd/blob/output/github-snake-dark.svg">
+  </picture>
+</div>
+
+---
 
 <!-- Design & Creativity Section -->
 #### 🎨 Design & Creativity:

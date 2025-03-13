@@ -49,10 +49,12 @@ A passionate coder **grinding through the CSE core quest 🚀**, diving deep int
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swappy-cmd&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swappy-cmd&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swappy-cmd&langs_count=6&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
+<!-- Design & Creativity Section -->
 #### 🎨 Design & Creativity:
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
@@ -62,7 +64,6 @@ A passionate coder **grinding through the CSE core quest 🚀**, diving deep int
 </p>
 
 ---
-
 
 <!-- Future Goals Section -->
 ### 🚀 Future Goals:

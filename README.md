@@ -12,7 +12,7 @@ A passionate coder **grinding through the CSE core quest 🚀**, diving deep int
 
 <!-- About Me Section -->
 ### 📝 About Me:
-- 🎓 **Final-year BTech CSE Core student at RVCE.**  
+- 🎓 **First-year BTech CSE Core student at RVCE.**  
 - 💻 **Passionate about coding, currently deep into C++ & DSA.**  
 - 🚀 **Developed multiple JavaScript games like Angry Birds, Flappy Bird & Many More.**  
 - 🛠️ **Built a project on Dyson Sphere with my team (more on LinkedIn).**  
